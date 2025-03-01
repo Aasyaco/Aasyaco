@@ -15,9 +15,6 @@ Looking to collaborate on:
 - Obfuscators  
 - High-performance systems  
 
-### 📫 Contact  
-(You can add your contact details here, such as email or social media links.)  
-
 ### 😄 Pronouns  
 He/Him  
 
