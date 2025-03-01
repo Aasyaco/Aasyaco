@@ -1,16 +1,19 @@
-## Hi there 👋
+- 👋 Hi, I’m @Aasyaco
+- 👀 I’m interested in modifying and improving software, cybersecurity, and reverse engineering.
+- 🌱 I’m currently refining advanced obfuscation techniques and performance optimization.
+- 💞️ I’m looking to collaborate on security tools, obfuscators, and high-performance systems.
+- 📫 How to reach me ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I mastered up to 20 programming languages!
 
-<!--
-**Aasyaco/Aasyaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!---
+Aasyaco/Aasyaco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-Here are some ideas to get you started:
+<!-- Languages -->
+### `~# head language.py`
+<a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aasyaco&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=20"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/>
